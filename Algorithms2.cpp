@@ -1,3 +1,4 @@
+//By Alan Kokaev
 #include <iostream>
 #include <conio.h>
 #include <vector>
